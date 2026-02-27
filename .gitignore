@@ -1,0 +1,27 @@
+# تجاهل ملفات Node.js
+node_modules/
+
+# تجاهل ملفات macOS
+.DS_Store
+
+# تجاهل ملفات Windows
+Thumbs.db
+
+# تجاهل ملفات IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# تجاهل ملفات السجل
+*.log
+
+# تجاهل ملفات المؤقتة
+*.tmp
+
+# تجاهل ملفات النسخ الاحتياطي
+*~
+
+# تجاهل ملفات البيانات الحساسة (إذا وجدت)
+*.env
+.env.local
